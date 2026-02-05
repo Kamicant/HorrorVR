@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zay07\\FPC_Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABEF423-41B4-9453-BC40-4E16A07EAEBF}|Assembly-CSharp.csproj|C:\\Users\\zay07\\FPC_Exercise1\\assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABEF423-41B4-9453-BC40-4E16A07EAEBF}|Assembly-CSharp.csproj|solutionrelative:assets\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABEF423-41B4-9453-BC40-4E16A07EAEBF}|Assembly-CSharp.csproj|c:\\users\\zay07\\fpc_exercise1\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABEF423-41B4-9453-BC40-4E16A07EAEBF}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\zay07\\FPC_Exercise1\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\zay07\\FPC_Exercise1\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:22:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\zay07\\FPC_Exercise1\\Assets\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\zay07\\FPC_Exercise1\\Assets\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\FirstPersonController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAYwHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:53:03.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
