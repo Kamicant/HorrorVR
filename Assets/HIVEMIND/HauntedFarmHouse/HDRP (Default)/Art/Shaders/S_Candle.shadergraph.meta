@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: af4c0a9b728b6c54c97a7106279533ac
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 312973
+  packageName: Modular Haunted House (Modular House, Modular Building, Barn, Haunted
+    House)
+  packageVersion: 1.2
+  assetPath: Assets/HIVEMIND/HauntedFarmHouse/HDRP (Default)/Art/Shaders/S_Candle.shadergraph
+  uploadId: 748602
